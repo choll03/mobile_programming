@@ -1,0 +1,301 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,view,com.android.ide.eclipse.ddms,23.0.7.2120684,"com.android.ide.eclipse.ddms.views.DeviceView",1555765997852
+activated,view,com.android.ide.eclipse.ddms,23.0.7.2120684,"com.android.ide.eclipse.ddms.views.HeapView",1555765997857
+closed,view,com.android.ide.eclipse.ddms,23.0.7.2120684,"com.android.ide.eclipse.ddms.views.DeviceView",1555765997867
+activated,view,com.android.ide.eclipse.ddms,23.0.7.2120684,"com.android.ide.eclipse.ddms.views.LogCatView",1555766002888
+activated,perspective,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.JavaPerspective",1555766005415
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1555766005484
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1555766005484
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1555766005484
+activated,perspective,com.android.ide.eclipse.ddms,23.0.7.2120684,"com.android.ide.eclipse.ddms.Perspective",1555766007134
+activated,view,com.android.ide.eclipse.ddms,23.0.7.2120684,"com.android.ide.eclipse.ddms.views.FileExplorerView",1555766009740
+activated,view,com.android.ide.eclipse.ddms,23.0.7.2120684,"com.android.ide.eclipse.ddms.views.FileExplorerView",1555766009764
+activated,view,com.android.ide.eclipse.ddms,23.0.7.2120684,"com.android.ide.eclipse.ddms.views.ThreadView",1555766013561
+activated,view,com.android.ide.eclipse.ddms,23.0.7.2120684,"com.android.ide.eclipse.ddms.views.FileExplorerView",1555766016236
+opened,view,com.android.ide.eclipse.ddms,23.0.7.2120684,"com.android.ide.eclipse.ddms.views.EmulatorControlView",1555766017304
+activated,view,com.android.ide.eclipse.ddms,23.0.7.2120684,"com.android.ide.eclipse.ddms.views.EmulatorControlView",1555766017331
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766029078
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766031515
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.perspectives.showPerspective",1555766031520
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.perspectives.showPerspective",1555766031520
+activated,view,com.android.ide.eclipse.ddms,23.0.7.2120684,"com.android.ide.eclipse.ddms.views.EmulatorControlView",1555766040619
+activated,perspective,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.JavaPerspective",1555766044266
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1555766044273
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1555766044274
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1555766044305
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766047028
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766071343
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.I20110421-1800,"org.eclipse.ui.navigator.ProjectExplorer",1555766074166
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766082445
+error,log,,,"",1555766103355
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766193145
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.newWizard",1555766193164
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1555766202566
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1555766202672
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.I20110421-1800,"org.eclipse.ui.navigator.ProjectExplorer",1555766204634
+error,log,,,"C:\\Users\\Dev\\android-sdk\\platform-tools\\dx.jar does not exist or is not a file",1555766210620
+error,log,,,"Unknown error: Unable to build: the file dx.jar was not loaded from the SDK folder!",1555766210630
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766211546
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766229069
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1555766231513
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1555766233776
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1555766235710
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.I20110421-1800,"org.eclipse.ui.navigator.ProjectExplorer",1555766237055
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1555766242192
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766243777
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766244823
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766245318
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766255836
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1555766258580
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.I20110421-1800,"org.eclipse.ui.navigator.ProjectExplorer",1555766261081
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766276030
+error,log,,,"Failed to load properties file for project 'AccelerometerPlayActivity'",1555766298428
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766299317
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.newWizard",1555766299365
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766314122
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766324604
+error,log,,,"C:\\Users\\Dev\\android-sdk\\platform-tools\\dx.jar does not exist or is not a file",1555766325395
+error,log,,,"Unknown error: Unable to build: the file dx.jar was not loaded from the SDK folder!",1555766325404
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766326128
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766344252
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766351731
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766352670
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1555766355085
+executed,command,,,"com.android.ide.eclipse.adt.debug.launching.LaunchShortcut.run",1555766368833
+error,log,,,"C:\\Users\\Dev\\android-sdk\\platform-tools\\dx.jar does not exist or is not a file",1555766368863
+error,log,,,"Unknown error: Unable to build: the file dx.jar was not loaded from the SDK folder!",1555766368873
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766369558
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766373151
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766379215
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766408623
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766409655
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766475080
+error,log,,,"C:\\Users\\Dev\\android-sdk\\platform-tools\\dx.jar does not exist or is not a file",1555766479742
+error,log,,,"Unknown error: Unable to build: the file dx.jar was not loaded from the SDK folder!",1555766479753
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766479785
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766481495
+error,log,,,"C:\\Users\\Dev\\android-sdk\\platform-tools\\dx.jar does not exist or is not a file",1555766487672
+error,log,,,"Unknown error: Unable to build: the file dx.jar was not loaded from the SDK folder!",1555766487682
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766488413
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766490997
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1555766492862
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1555766495621
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1555766497298
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1555766501552
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766503566
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766514701
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1555766514733
+error,log,,,"C:\\Users\\Dev\\android-sdk\\platform-tools\\dx.jar does not exist or is not a file",1555766520258
+error,log,,,"Unknown error: Unable to build: the file dx.jar was not loaded from the SDK folder!",1555766520268
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766521010
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766524252
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766545796
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766593760
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766596000
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766598431
+activated,perspective,com.android.ide.eclipse.ddms,23.0.7.2120684,"com.android.ide.eclipse.ddms.Perspective",1555766600181
+activated,view,com.android.ide.eclipse.ddms,23.0.7.2120684,"com.android.ide.eclipse.ddms.views.ThreadView",1555766604051
+activated,view,com.android.ide.eclipse.ddms,23.0.7.2120684,"com.android.ide.eclipse.ddms.views.EmulatorControlView",1555766605659
+activated,view,com.android.ide.eclipse.ddms,23.0.7.2120684,"com.android.ide.eclipse.ddms.views.FileExplorerView",1555766608353
+opened,view,com.android.ide.eclipse.ddms,23.0.7.2120684,"com.android.ide.eclipse.ddms.views.NetworkStatsView",1555766610796
+activated,view,com.android.ide.eclipse.ddms,23.0.7.2120684,"com.android.ide.eclipse.ddms.views.NetworkStatsView",1555766610811
+activated,perspective,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.JavaPerspective",1555766614257
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1555766614266
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1555766614286
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766618129
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766618376
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766628226
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766695194
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1555766698017
+executed,command,,,"com.android.ide.eclipse.adt.debug.launching.LaunchShortcut.run",1555766701990
+error,log,,,"C:\\Users\\Dev\\android-sdk\\platform-tools\\dx.jar does not exist or is not a file",1555766702077
+error,log,,,"Unknown error: Unable to build: the file dx.jar was not loaded from the SDK folder!",1555766702087
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766703013
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766704688
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766715558
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1555766717843
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766717916
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1555766717924
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766725983
+error,log,,,"",1555766749343
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766908048
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.newWizard",1555766908058
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766913540
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766938647
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.newWizard",1555766938656
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766943617
+error,log,,,"",1555766976007
+error,log,,,"Failed to load properties file for project 'belajar'",1555766979635
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766981455
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.newWizard",1555766981464
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555766992616
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1555767009342
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.newWizard",1555767009415
+error,log,,,"Current file is not a match for the given config.",1555767009961
+error,log,,,"Current file is not a match for the given config.",1555767009971
+error,log,,,"Current file is not a match for the given config.",1555767009984
+error,log,,,"Current file is not a match for the given config.",1555767009994
+error,log,,,"Current file is not a match for the given config.",1555767010005
+error,log,,,"Current file is not a match for the given config.",1555767010018
+error,log,,,"Current file is not a match for the given config.",1555767010028
+error,log,,,"Current file is not a match for the given config.",1555767010039
+error,log,,,"Current file is not a match for the given config.",1555767010049
+error,log,,,"Current file is not a match for the given config.",1555767010062
+error,log,,,"Current file is not a match for the given config.",1555767010072
+error,log,,,"Current file is not a match for the given config.",1555767010081
+error,log,,,"Current file is not a match for the given config.",1555767010089
+error,log,,,"Current file is not a match for the given config.",1555767010098
+error,log,,,"Current file is not a match for the given config.",1555767010106
+error,log,,,"Current file is not a match for the given config.",1555767010118
+error,log,,,"Current file is not a match for the given config.",1555767010126
+error,log,,,"Current file is not a match for the given config.",1555767010134
+error,log,,,"Current file is not a match for the given config.",1555767010145
+error,log,,,"Current file is not a match for the given config.",1555767010157
+error,log,,,"Current file is not a match for the given config.",1555767010165
+error,log,,,"Current file is not a match for the given config.",1555767010175
+error,log,,,"Current file is not a match for the given config.",1555767010185
+error,log,,,"Current file is not a match for the given config.",1555767010193
+error,log,,,"Current file is not a match for the given config.",1555767010201
+error,log,,,"Current file is not a match for the given config.",1555767010213
+error,log,,,"Current file is not a match for the given config.",1555767010221
+error,log,,,"Current file is not a match for the given config.",1555767010229
+error,log,,,"Current file is not a match for the given config.",1555767010237
+error,log,,,"Current file is not a match for the given config.",1555767010245
+error,log,,,"Current file is not a match for the given config.",1555767010254
+error,log,,,"Current file is not a match for the given config.",1555767010262
+error,log,,,"Current file is not a match for the given config.",1555767010269
+error,log,,,"Current file is not a match for the given config.",1555767010277
+error,log,,,"Current file is not a match for the given config.",1555767010285
+error,log,,,"Current file is not a match for the given config.",1555767010292
+error,log,,,"Current file is not a match for the given config.",1555767010302
+error,log,,,"Current file is not a match for the given config.",1555767010310
+error,log,,,"Current file is not a match for the given config.",1555767010317
+error,log,,,"Current file is not a match for the given config.",1555767010325
+error,log,,,"Current file is not a match for the given config.",1555767010333
+error,log,,,"Current file is not a match for the given config.",1555767010344
+error,log,,,"Current file is not a match for the given config.",1555767010352
+error,log,,,"Current file is not a match for the given config.",1555767010372
+error,log,,,"Current file is not a match for the given config.",1555767010379
+error,log,,,"Current file is not a match for the given config.",1555767010388
+error,log,,,"Current file is not a match for the given config.",1555767010395
+error,log,,,"Current file is not a match for the given config.",1555767010403
+error,log,,,"Current file is not a match for the given config.",1555767010414
+error,log,,,"Current file is not a match for the given config.",1555767010422
+error,log,,,"Current file is not a match for the given config.",1555767010430
+error,log,,,"Current file is not a match for the given config.",1555767010438
+error,log,,,"Current file is not a match for the given config.",1555767010446
+error,log,,,"Current file is not a match for the given config.",1555767010453
+error,log,,,"Current file is not a match for the given config.",1555767010461
+error,log,,,"Current file is not a match for the given config.",1555767010471
+error,log,,,"Current file is not a match for the given config.",1555767010479
+error,log,,,"Current file is not a match for the given config.",1555767010486
+error,log,,,"Current file is not a match for the given config.",1555767010493
+error,log,,,"Current file is not a match for the given config.",1555767010502
+error,log,,,"Current file is not a match for the given config.",1555767010511
+error,log,,,"Current file is not a match for the given config.",1555767010518
+error,log,,,"Current file is not a match for the given config.",1555767010531
+error,log,,,"Current file is not a match for the given config.",1555767010541
+error,log,,,"Current file is not a match for the given config.",1555767010550
+error,log,,,"Current file is not a match for the given config.",1555767010559
+error,log,,,"Current file is not a match for the given config.",1555767010567
+error,log,,,"Current file is not a match for the given config.",1555767010576
+error,log,,,"Current file is not a match for the given config.",1555767010584
+error,log,,,"Current file is not a match for the given config.",1555767010593
+error,log,,,"Current file is not a match for the given config.",1555767010601
+error,log,,,"Current file is not a match for the given config.",1555767010609
+error,log,,,"Current file is not a match for the given config.",1555767010617
+error,log,,,"Current file is not a match for the given config.",1555767010626
+error,log,,,"Current file is not a match for the given config.",1555767010635
+error,log,,,"Current file is not a match for the given config.",1555767010651
+error,log,,,"Current file is not a match for the given config.",1555767010660
+error,log,,,"Current file is not a match for the given config.",1555767010668
+error,log,,,"Current file is not a match for the given config.",1555767010675
+error,log,,,"Current file is not a match for the given config.",1555767010683
+error,log,,,"Current file is not a match for the given config.",1555767010690
+error,log,,,"Current file is not a match for the given config.",1555767010698
+error,log,,,"Current file is not a match for the given config.",1555767010705
+error,log,,,"Current file is not a match for the given config.",1555767010713
+error,log,,,"Current file is not a match for the given config.",1555767010720
+error,log,,,"Current file is not a match for the given config.",1555767010728
+error,log,,,"Current file is not a match for the given config.",1555767010736
+error,log,,,"Current file is not a match for the given config.",1555767010743
+error,log,,,"Current file is not a match for the given config.",1555767010751
+error,log,,,"Current file is not a match for the given config.",1555767010759
+error,log,,,"Current file is not a match for the given config.",1555767010766
+error,log,,,"Current file is not a match for the given config.",1555767010775
+error,log,,,"Current file is not a match for the given config.",1555767010783
+error,log,,,"Current file is not a match for the given config.",1555767010798
+error,log,,,"Current file is not a match for the given config.",1555767010806
+error,log,,,"Current file is not a match for the given config.",1555767010814
+error,log,,,"Current file is not a match for the given config.",1555767010822
+error,log,,,"Current file is not a match for the given config.",1555767010829
+error,log,,,"Current file is not a match for the given config.",1555767010837
+error,log,,,"Current file is not a match for the given config.",1555767010844
+error,log,,,"Current file is not a match for the given config.",1555767010852
+error,log,,,"Current file is not a match for the given config.",1555767010859
+error,log,,,"Current file is not a match for the given config.",1555767010866
+error,log,,,"Current file is not a match for the given config.",1555767010874
+error,log,,,"Current file is not a match for the given config.",1555767010881
+error,log,,,"Current file is not a match for the given config.",1555767010889
+error,log,,,"Current file is not a match for the given config.",1555767010897
+error,log,,,"Current file is not a match for the given config.",1555767010904
+error,log,,,"Current file is not a match for the given config.",1555767010912
+error,log,,,"Current file is not a match for the given config.",1555767010920
+error,log,,,"Current file is not a match for the given config.",1555767010927
+error,log,,,"Current file is not a match for the given config.",1555767010934
+error,log,,,"Current file is not a match for the given config.",1555767010942
+error,log,,,"Current file is not a match for the given config.",1555767010949
+error,log,,,"Current file is not a match for the given config.",1555767010956
+error,log,,,"Current file is not a match for the given config.",1555767010964
+error,log,,,"Current file is not a match for the given config.",1555767010971
+error,log,,,"Current file is not a match for the given config.",1555767010979
+error,log,,,"Current file is not a match for the given config.",1555767010986
+error,log,,,"Current file is not a match for the given config.",1555767010994
+error,log,,,"Current file is not a match for the given config.",1555767011001
+error,log,,,"Current file is not a match for the given config.",1555767011009
+error,log,,,"Current file is not a match for the given config.",1555767011023
+error,log,,,"Current file is not a match for the given config.",1555767011039
+error,log,,,"Current file is not a match for the given config.",1555767011047
+error,log,,,"Current file is not a match for the given config.",1555767011055
+error,log,,,"Current file is not a match for the given config.",1555767011062
+error,log,,,"Current file is not a match for the given config.",1555767011069
+error,log,,,"Current file is not a match for the given config.",1555767011076
+error,log,,,"Current file is not a match for the given config.",1555767011083
+error,log,,,"Current file is not a match for the given config.",1555767011091
+error,log,,,"Current file is not a match for the given config.",1555767011098
+error,log,,,"Current file is not a match for the given config.",1555767011105
+error,log,,,"Current file is not a match for the given config.",1555767011113
+error,log,,,"Current file is not a match for the given config.",1555767011120
+error,log,,,"Current file is not a match for the given config.",1555767011127
+error,log,,,"Current file is not a match for the given config.",1555767011135
+error,log,,,"Current file is not a match for the given config.",1555767011142
+error,log,,,"Current file is not a match for the given config.",1555767011150
+error,log,,,"Current file is not a match for the given config.",1555767011157
+error,log,,,"Current file is not a match for the given config.",1555767011165
+error,log,,,"Current file is not a match for the given config.",1555767011173
+error,log,,,"Current file is not a match for the given config.",1555767011198
+error,log,,,"Current file is not a match for the given config.",1555767011216
+error,log,,,"Current file is not a match for the given config.",1555767011228
+error,log,,,"Current file is not a match for the given config.",1555767011236
+error,log,,,"Current file is not a match for the given config.",1555767011243
+error,log,,,"Current file is not a match for the given config.",1555767011252
+error,log,,,"Current file is not a match for the given config.",1555767011260
+error,log,,,"Current file is not a match for the given config.",1555767011268
+error,log,,,"Current file is not a match for the given config.",1555767011276
+error,log,,,"Current file is not a match for the given config.",1555767011283
+error,log,,,"Current file is not a match for the given config.",1555767011291
+error,log,,,"Current file is not a match for the given config.",1555767011298
+error,log,,,"Current file is not a match for the given config.",1555767011337
+error,log,,,"Current file is not a match for the given config.",1555767011344
+error,log,,,"Current file is not a match for the given config.",1555767011352
+error,log,,,"Current file is not a match for the given config.",1555767011359
+error,log,,,"Current file is not a match for the given config.",1555767011367
+error,log,,,"Current file is not a match for the given config.",1555767011374
+error,log,,,"Current file is not a match for the given config.",1555767011382
+error,log,,,"Current file is not a match for the given config.",1555767011389
+error,log,,,"Current file is not a match for the given config.",1555767011397
+error,log,,,"Current file is not a match for the given config.",1555767011404
+error,log,,,"Current file is not a match for the given config.",1555767011411
+error,log,,,"Current file is not a match for the given config.",1555767011420
+error,log,,,"Current file is not a match for the given config.",1555767011428
+error,log,,,"Current file is not a match for the given config.",1555767011435
