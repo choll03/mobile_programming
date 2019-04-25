@@ -1,0 +1,41 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignParentLeft="true"
+		android:layout_alignParentRight="true"
+		android:layout_alignParentTop="true" >
+	<TextView
+		android:id="@+id/textView1"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_weight="1"
+		android:text="Daftar Mata Kuliah"
+		android:textAppearance="?android:attr/textAppearanceMedium" />
+	<Button
+		android:id="@+id/xButton"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="X" />
+	</LinearLayout>
+	
+	<LinearLayout
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignParentLeft="true"
+		android:layout_below="@+id/linearLayout1" >
+	
+		<ListView
+			android:id="@+id/mataKuliahListView"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_weight="1" >
+		</ListView>
+	</LinearLayout>
+
+</RelativeLayout>
