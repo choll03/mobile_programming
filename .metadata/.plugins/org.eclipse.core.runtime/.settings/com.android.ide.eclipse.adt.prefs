@@ -1,10 +1,9 @@
-#Thu Apr 25 23:58:01 ICT 2019
-com.android.ide.eclipse.adt.attrSort=logical
-design.palette.flyout.state=1
+#Wed May 01 14:37:33 ICT 2019
 com.android.ide.eclipse.adt.sdk=C\:\\Users\\Dev\\AppData\\Local\\Android\\sdk
-design.structure.flyout.state=1
-design.structure.flyout.width=164
-com.android.ide.eclipse.adt.xmlEditor=true
+com.android.ide.eclipse.adt.autoPickTarget=false
+design.structure.flyout.width=312
 eclipse.preferences.version=1
-com.android.ide.eclipse.adt.previews=default
+com.android.ide.eclipse.adt.monitorDensity=112.0
 com.android.ide.eclipse.adt.fixLegacyEditors=1
+com.android.ide.eclipse.adt.xmlEditor=true
+com.android.ide.eclipse.adt.attrSort=logical

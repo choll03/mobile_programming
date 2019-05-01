@@ -1,0 +1,276 @@
+what,kind,bundleId,bundleVersion,description,time
+java.specification.name,sysinfo,,,"Java Platform API Specification",1556377637379
+java.specification.vendor,sysinfo,,,"Oracle Corporation",1556377637379
+java.specification.version,sysinfo,,,"1.8",1556377637379
+java.vendor,sysinfo,,,"Oracle Corporation",1556377637379
+java.version,sysinfo,,,"1.8.0_151",1556377637379
+java.vm.info,sysinfo,,,"mixed mode",1556377637379
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1556377637379
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1556377637379
+java.vm.specification.vendor,sysinfo,,,"Oracle Corporation",1556377637379
+java.vm.specification.version,sysinfo,,,"1.8",1556377637379
+java.vm.vendor,sysinfo,,,"Oracle Corporation",1556377637379
+java.vm.version,sysinfo,,,"25.151-b12",1556377637379
+started,bundle,org.eclipse.m2e.usagedata,1.0.100.20110804-1717,"org.eclipse.m2e.usagedata",1556377637394
+started,bundle,org.eclipse.cdt.make.core,7.1.2.201202111925,"org.eclipse.cdt.make.core",1556377637759
+started,bundle,org.eclipse.cdt.managedbuilder.core,8.0.2.201202111925,"org.eclipse.cdt.managedbuilder.core",1556377637891
+started,bundle,org.eclipse.cdt.core,5.3.2.201202111925,"org.eclipse.cdt.core",1556377638187
+started,bundle,org.eclipse.ui.navigator,3.5.100.v20110809-2227,"org.eclipse.ui.navigator",1556377638394
+started,bundle,org.eclipse.cdt.ui,5.3.2.201202111925,"org.eclipse.cdt.ui",1556377638851
+started,bundle,org.eclipse.cdt.codan.core.cxx,1.0.0.201202111925,"org.eclipse.cdt.codan.core.cxx",1556377638860
+started,bundle,org.eclipse.cdt.codan.core,2.0.0.201202111925,"org.eclipse.cdt.codan.core",1556377638886
+started,bundle,org.eclipse.cdt.make.ui,7.1.2.201202111925,"org.eclipse.cdt.make.ui",1556377638908
+started,bundle,org.eclipse.cdt.codan.checkers,1.0.1.201202111925,"org.eclipse.cdt.codan.checkers",1556377638955
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556377646073
+started,bundle,org.eclipse.wb.core.lib,1.1.0.r37x201109091012,"org.eclipse.wb.core.lib",1556377661311
+started,bundle,org.eclipse.wb.core,1.1.0.r37x201109091012,"org.eclipse.wb.core",1556377661386
+started,bundle,org.eclipse.wst.sse.core,1.1.601.v201108151912,"org.eclipse.wst.sse.core",1556377686337
+started,bundle,org.eclipse.wst.xml.core,1.1.601.v201108302147,"org.eclipse.wst.xml.core",1556377686388
+started,bundle,org.eclipse.wst.common.uriresolver,1.1.401.v201004280700,"org.eclipse.wst.common.uriresolver",1556377686509
+started,bundle,org.eclipse.ant.ui,3.5.100.v20110510,"org.eclipse.ant.ui",1556377686719
+started,bundle,org.eclipse.m2e.core,1.0.100.20110804-1717,"org.eclipse.m2e.core",1556377688861
+started,bundle,org.eclipse.wst.common.frameworks,1.2.101.v201107192200,"org.eclipse.wst.common.frameworks",1556377689712
+started,bundle,org.eclipse.emf.common,2.9.1.v20130827-0309,"org.eclipse.emf.common",1556377689783
+started,bundle,org.eclipse.emf.ecore,2.9.1.v20130827-0309,"org.eclipse.emf.ecore",1556377689838
+started,bundle,org.eclipse.wst.common.emf,1.2.100.v201101101900,"org.eclipse.wst.common.emf",1556377689880
+started,bundle,org.eclipse.jem.util,2.1.100.v201103021400,"org.eclipse.jem.util",1556377689903
+started,bundle,org.eclipse.emf.ecore.xmi,2.9.1.v20130827-0309,"org.eclipse.emf.ecore.xmi",1556377689950
+started,bundle,org.eclipse.wst.common.emfworkbench.integration,1.2.101.v201107140600,"org.eclipse.wst.common.emfworkbench.integration",1556377689952
+started,bundle,org.eclipse.wst.common.project.facet.core,1.4.201.v201201101553,"org.eclipse.wst.common.project.facet.core",1556377689970
+started,bundle,org.eclipse.wst.common.core,1.2.0.v200908252030,"org.eclipse.wst.common.core",1556377690092
+started,bundle,org.eclipse.wst.common.modulecore,1.2.101.v201108231700,"org.eclipse.wst.common.modulecore",1556377690099
+started,bundle,org.eclipse.wst.dtd.core,1.1.501.v201107252021,"org.eclipse.wst.dtd.core",1556377690704
+started,bundle,org.eclipse.wst.internet.cache,1.0.400.v201004280700,"org.eclipse.wst.internet.cache",1556377691196
+error,log,,,"Failed to load properties file for project 'Kitkat'",1556377691680
+error,log,,,"",1556377695866
+error,log,,,"Unable to update index for central|http://repo1.maven.org/maven2",1556377697849
+error,log,,,"",1556377716156
+error,log,,,"",1556377726985
+error,log,,,"",1556377732837
+error,log,,,"",1556377734166
+error,log,,,"",1556377734692
+error,log,,,"",1556377734864
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556377736100
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.newWizard",1556377736218
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1556377738595
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1556377743681
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1556377743734
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1556377748363
+started,bundle,org.eclipse.wst.sse.ui,1.3.1.v201108191312,"org.eclipse.wst.sse.ui",1556377752576
+started,bundle,org.eclipse.wst.xml.ui,1.1.201.v201108151912,"org.eclipse.wst.xml.ui",1556377752593
+started,bundle,org.eclipse.wst.validation,1.2.302.v201107140600,"org.eclipse.wst.validation",1556377753559
+started,bundle,org.eclipse.wst.dtd.ui,1.0.600.v201103171359,"org.eclipse.wst.dtd.ui",1556377753789
+opened,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1556377754148
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1556377754270
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377762232
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377762274
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377762285
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377762322
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377770622
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377770632
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377770641
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377770651
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377775584
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377775594
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377775603
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377775612
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377781103
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377781113
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377781122
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377781131
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377781836
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377781846
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377781855
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377781865
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377785820
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377785832
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377785841
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377785851
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377786042
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377786051
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377786059
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377786068
+error,log,,,"Landscape: Failed to find style 'textViewStyle' in current theme",1556377786179
+error,log,,,"Landscape: Failed to find style 'textViewStyle' in current theme",1556377786188
+error,log,,,"Landscape: Failed to find style 'textViewStyle' in current theme",1556377786196
+error,log,,,"Landscape: Failed to find style 'textViewStyle' in current theme",1556377786204
+error,log,,,"3.2"" HVGA slider (ADP1): Failed to find style 'textViewStyle' in current theme",1556377791804
+error,log,,,"3.2"" HVGA slider (ADP1): Failed to find style 'textViewStyle' in current theme",1556377791812
+error,log,,,"3.2"" HVGA slider (ADP1): Failed to find style 'textViewStyle' in current theme",1556377791821
+error,log,,,"3.2"" HVGA slider (ADP1): Failed to find style 'textViewStyle' in current theme",1556377791829
+error,log,,,"5.1"" WVGA: Failed to find style 'textViewStyle' in current theme",1556377791954
+error,log,,,"5.1"" WVGA: Failed to find style 'textViewStyle' in current theme",1556377791963
+error,log,,,"5.1"" WVGA: Failed to find style 'textViewStyle' in current theme",1556377791971
+error,log,,,"5.1"" WVGA: Failed to find style 'textViewStyle' in current theme",1556377791980
+error,log,,,"10.1"" WXGA (Tablet): Failed to find style 'textViewStyle' in current theme",1556377792104
+error,log,,,"10.1"" WXGA (Tablet): Failed to find style 'textViewStyle' in current theme",1556377792112
+error,log,,,"10.1"" WXGA (Tablet): Failed to find style 'textViewStyle' in current theme",1556377792120
+error,log,,,"10.1"" WXGA (Tablet): Failed to find style 'textViewStyle' in current theme",1556377792129
+error,log,,,"Nexus One: Failed to find style 'textViewStyle' in current theme",1556377792254
+error,log,,,"Nexus One: Failed to find style 'textViewStyle' in current theme",1556377792263
+error,log,,,"Nexus One: Failed to find style 'textViewStyle' in current theme",1556377792271
+error,log,,,"Nexus One: Failed to find style 'textViewStyle' in current theme",1556377792279
+error,log,,,"Nexus S: Failed to find style 'textViewStyle' in current theme",1556377792346
+error,log,,,"Nexus S: Failed to find style 'textViewStyle' in current theme",1556377792354
+error,log,,,"Nexus S: Failed to find style 'textViewStyle' in current theme",1556377792362
+error,log,,,"Nexus S: Failed to find style 'textViewStyle' in current theme",1556377792370
+error,log,,,"Galaxy Nexus: Failed to find style 'textViewStyle' in current theme",1556377792554
+error,log,,,"Galaxy Nexus: Failed to find style 'textViewStyle' in current theme",1556377792562
+error,log,,,"Galaxy Nexus: Failed to find style 'textViewStyle' in current theme",1556377792570
+error,log,,,"Galaxy Nexus: Failed to find style 'textViewStyle' in current theme",1556377792578
+error,log,,,"2012: Failed to find style 'textViewStyle' in current theme",1556377792704
+error,log,,,"2012: Failed to find style 'textViewStyle' in current theme",1556377792712
+error,log,,,"2012: Failed to find style 'textViewStyle' in current theme",1556377792720
+error,log,,,"2012: Failed to find style 'textViewStyle' in current theme",1556377792728
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377796388
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377796397
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377796455
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377796467
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377796582
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377796590
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377796598
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377796606
+error,log,,,"Landscape: Failed to find style 'textViewStyle' in current theme",1556377796717
+error,log,,,"Landscape: Failed to find style 'textViewStyle' in current theme",1556377796726
+error,log,,,"Landscape: Failed to find style 'textViewStyle' in current theme",1556377796733
+error,log,,,"Landscape: Failed to find style 'textViewStyle' in current theme",1556377796742
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377804800
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377804808
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377804816
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377804824
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377804919
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377804928
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377804936
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377804944
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377805214
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377805222
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377805230
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377805239
+error,log,,,"Portrait: Failed to find style 'textViewStyle' in current theme",1556377805357
+error,log,,,"Portrait: Failed to find style 'textViewStyle' in current theme",1556377805365
+error,log,,,"Portrait: Failed to find style 'textViewStyle' in current theme",1556377805373
+error,log,,,"Portrait: Failed to find style 'textViewStyle' in current theme",1556377805382
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377807491
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377807499
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377807507
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377807515
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377811595
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377811604
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377811612
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377811621
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377811715
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377811723
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377811731
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377811739
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377812414
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377812422
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377812430
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377812439
+error,log,,,"Landscape: Failed to find style 'textViewStyle' in current theme",1556377812552
+error,log,,,"Landscape: Failed to find style 'textViewStyle' in current theme",1556377812560
+error,log,,,"Landscape: Failed to find style 'textViewStyle' in current theme",1556377812568
+error,log,,,"Landscape: Failed to find style 'textViewStyle' in current theme",1556377812576
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377812646
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377812655
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377812663
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377812671
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377815471
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377815479
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377815487
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377815496
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377818024
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377818032
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377818040
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377818048
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377835495
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377835506
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377835514
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377835522
+error,log,,,"Landscape: Failed to find style 'textViewStyle' in current theme",1556377835646
+error,log,,,"Landscape: Failed to find style 'textViewStyle' in current theme",1556377835657
+error,log,,,"Landscape: Failed to find style 'textViewStyle' in current theme",1556377835665
+error,log,,,"Landscape: Failed to find style 'textViewStyle' in current theme",1556377835673
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377835795
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377835806
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377835814
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377835822
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377836259
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377836267
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377836275
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377836284
+error,log,,,"Landscape: Failed to find style 'textViewStyle' in current theme",1556377836455
+error,log,,,"Landscape: Failed to find style 'textViewStyle' in current theme",1556377836464
+error,log,,,"Landscape: Failed to find style 'textViewStyle' in current theme",1556377836472
+error,log,,,"Landscape: Failed to find style 'textViewStyle' in current theme",1556377836480
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377836555
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377836564
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377836572
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377836580
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377837663
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377837675
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377837687
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377837698
+error,log,,,"Landscape: Failed to find style 'textViewStyle' in current theme",1556377837863
+error,log,,,"Landscape: Failed to find style 'textViewStyle' in current theme",1556377837875
+error,log,,,"Landscape: Failed to find style 'textViewStyle' in current theme",1556377837883
+error,log,,,"Landscape: Failed to find style 'textViewStyle' in current theme",1556377837891
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377838289
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377838299
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377838306
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377838314
+error,log,,,"Landscape: Failed to find style 'textViewStyle' in current theme",1556377838435
+error,log,,,"Landscape: Failed to find style 'textViewStyle' in current theme",1556377838443
+error,log,,,"Landscape: Failed to find style 'textViewStyle' in current theme",1556377838451
+error,log,,,"Landscape: Failed to find style 'textViewStyle' in current theme",1556377838459
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377838589
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377838599
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377838608
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377838616
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377843642
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377843651
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377843659
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377843667
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377843757
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377843765
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377843773
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377843781
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377844262
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377844271
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377844279
+error,log,,,"Android TV (1080p): Failed to find style 'textViewStyle' in current theme",1556377844287
+error,log,,,"Portrait: Failed to find style 'textViewStyle' in current theme",1556377844407
+error,log,,,"Portrait: Failed to find style 'textViewStyle' in current theme",1556377844416
+error,log,,,"Portrait: Failed to find style 'textViewStyle' in current theme",1556377844424
+error,log,,,"Portrait: Failed to find style 'textViewStyle' in current theme",1556377844433
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556377846591
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556377848503
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377858045
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377858054
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377858062
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377858070
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377861188
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377861197
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377861205
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377861213
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556377864303
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556377866178
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377866206
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377866215
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377866223
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377866231
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377871458
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377871466
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377871475
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377871483
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377876315
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377876324
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377876332
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377876341
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377884899
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377884907
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377884915
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377884924
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377885024
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377885033
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377885041
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556377885049

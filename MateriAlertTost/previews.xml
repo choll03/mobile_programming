@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<previews>
+
+    <preview
+        name="Nexus 5"
+        activity="com.example.materialerttost.MainActivity"
+        config="layout-ldltr-sw320dp-w320dp-h533dp-normal-notround-port-notnight-hdpi-finger-keyssoft-nokeys-navhidden-nonav-800x480-v24"
+        device="Nexus S"
+        devicestate="Portrait"
+        target="Android 7.0"
+        theme="@style/AppTheme" >
+    </preview>
+
+</previews>

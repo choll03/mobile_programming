@@ -1,0 +1,276 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556387202079
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556387204260
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556387208038
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.newWizard",1556387208047
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556387214846
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556387215744
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556387218220
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556387219697
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556387221080
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556387403338
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556387427977
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556387447058
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1556387457317
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1556387470728
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1556387475896
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556387483984
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556387506704
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556387508409
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556387645973
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556387648712
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556387650687
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1556387651006
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1556387651006
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1556387653167
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556387659296
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556387663740
+executed,command,org.eclipse.ltk.ui.refactoring,3.6.0.v20110505-0800,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1556387663747
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1556387663747
+opened,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1556387674422
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1556387674521
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556387685830
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556387687767
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556387695169
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556387696631
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556387698950
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556387700277
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556387700817
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556387701801
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556387702383
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556387710209
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556387714931
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556387909764
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556387909844
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556387912306
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556387912518
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556387938014
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556387974043
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556388019213
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556388020843
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556388041610
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556388043862
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1556388066638
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1556388066803
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1556388070062
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1556388070062
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1556388113841
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556388119422
+error,log,,,"Failed to load properties file for project 'Kitkat'",1556388147835
+error,log,,,"",1556388163052
+error,log,,,"",1556388166978
+activated,view,org.eclipse.ui.console,3.5.100.v20110511,"org.eclipse.ui.console.ConsoleView",1556388169011
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556388175883
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1556388184375
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1556388187067
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1556388187256
+closed,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1556388187256
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1556388189589
+opened,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1556388192684
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1556388192727
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1556388198485
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556388212892
+closed,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1556388215255
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556388215563
+executed,command,org.eclipse.ltk.ui.refactoring,3.6.0.v20110505-0800,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1556388215570
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1556388215570
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556388220927
+error,log,,,"Failed to load properties file for project 'oreo'",1556388241715
+error,log,,,"",1556388255225
+activated,view,org.eclipse.ui.console,3.5.100.v20110511,"org.eclipse.ui.console.ConsoleView",1556388259347
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556388265243
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1556388269241
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556388272280
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556388279522
+executed,command,org.eclipse.ui.ide,3.7.0.v20110809-1737,"org.eclipse.ui.project.cleanAction",1556388279529
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556388279807
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556388280716
+activated,view,org.eclipse.ui.console,3.5.100.v20110511,"org.eclipse.ui.console.ConsoleView",1556388282007
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1556388305578
+opened,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1556388311891
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1556388312022
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556388326382
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556388326398
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556388326411
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556388326423
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556388332011
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556388332021
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556388332031
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556388332041
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556388347419
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556388347429
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556388347438
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556388347448
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1556388356242
+opened,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1556388363228
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1556388363284
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1556388369351
+closed,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1556388369351
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556388371978
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556388373726
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556388373791
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556388373801
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556388373810
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556388373821
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556388377391
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556388379173
+error,log,,,"3.2"" HVGA slider (ADP1): Failed to find style 'textViewStyle' in current theme",1556388384658
+error,log,,,"3.2"" HVGA slider (ADP1): Failed to find style 'textViewStyle' in current theme",1556388384672
+error,log,,,"3.2"" HVGA slider (ADP1): Failed to find style 'textViewStyle' in current theme",1556388384681
+error,log,,,"3.2"" HVGA slider (ADP1): Failed to find style 'textViewStyle' in current theme",1556388384690
+error,log,,,"5.1"" WVGA: Failed to find style 'textViewStyle' in current theme",1556388384783
+error,log,,,"5.1"" WVGA: Failed to find style 'textViewStyle' in current theme",1556388384792
+error,log,,,"5.1"" WVGA: Failed to find style 'textViewStyle' in current theme",1556388384801
+error,log,,,"5.1"" WVGA: Failed to find style 'textViewStyle' in current theme",1556388384810
+error,log,,,"10.1"" WXGA (Tablet): Failed to find style 'textViewStyle' in current theme",1556388384903
+error,log,,,"10.1"" WXGA (Tablet): Failed to find style 'textViewStyle' in current theme",1556388384912
+error,log,,,"10.1"" WXGA (Tablet): Failed to find style 'textViewStyle' in current theme",1556388384923
+error,log,,,"10.1"" WXGA (Tablet): Failed to find style 'textViewStyle' in current theme",1556388384932
+error,log,,,"Nexus One: Failed to find style 'textViewStyle' in current theme",1556388385038
+error,log,,,"Nexus One: Failed to find style 'textViewStyle' in current theme",1556388385046
+error,log,,,"Nexus One: Failed to find style 'textViewStyle' in current theme",1556388385054
+error,log,,,"Nexus One: Failed to find style 'textViewStyle' in current theme",1556388385062
+error,log,,,"Nexus S: Failed to find style 'textViewStyle' in current theme",1556388385184
+error,log,,,"Nexus S: Failed to find style 'textViewStyle' in current theme",1556388385193
+error,log,,,"Nexus S: Failed to find style 'textViewStyle' in current theme",1556388385201
+error,log,,,"Nexus S: Failed to find style 'textViewStyle' in current theme",1556388385210
+error,log,,,"Galaxy Nexus: Failed to find style 'textViewStyle' in current theme",1556388385340
+error,log,,,"Galaxy Nexus: Failed to find style 'textViewStyle' in current theme",1556388385348
+error,log,,,"Galaxy Nexus: Failed to find style 'textViewStyle' in current theme",1556388385356
+error,log,,,"Galaxy Nexus: Failed to find style 'textViewStyle' in current theme",1556388385365
+error,log,,,"2012: Failed to find style 'textViewStyle' in current theme",1556388385491
+error,log,,,"2012: Failed to find style 'textViewStyle' in current theme",1556388385499
+error,log,,,"2012: Failed to find style 'textViewStyle' in current theme",1556388385507
+error,log,,,"2012: Failed to find style 'textViewStyle' in current theme",1556388385515
+error,log,,,"Nexus 4: Failed to find style 'textViewStyle' in current theme",1556388385625
+error,log,,,"Nexus 4: Failed to find style 'textViewStyle' in current theme",1556388385633
+error,log,,,"Nexus 4: Failed to find style 'textViewStyle' in current theme",1556388385700
+error,log,,,"Nexus 4: Failed to find style 'textViewStyle' in current theme",1556388385713
+error,log,,,"Nexus 10: Failed to find style 'textViewStyle' in current theme",1556388385819
+error,log,,,"Nexus 10: Failed to find style 'textViewStyle' in current theme",1556388385828
+error,log,,,"Nexus 10: Failed to find style 'textViewStyle' in current theme",1556388385837
+error,log,,,"Nexus 10: Failed to find style 'textViewStyle' in current theme",1556388385846
+error,log,,,"Nexus 7: Failed to find style 'textViewStyle' in current theme",1556388386059
+error,log,,,"Nexus 7: Failed to find style 'textViewStyle' in current theme",1556388386067
+error,log,,,"Nexus 7: Failed to find style 'textViewStyle' in current theme",1556388386075
+error,log,,,"Nexus 7: Failed to find style 'textViewStyle' in current theme",1556388386084
+error,log,,,"Nexus 5: Failed to find style 'textViewStyle' in current theme",1556388388326
+error,log,,,"Nexus 5: Failed to find style 'textViewStyle' in current theme",1556388388334
+error,log,,,"Nexus 5: Failed to find style 'textViewStyle' in current theme",1556388388342
+error,log,,,"Nexus 5: Failed to find style 'textViewStyle' in current theme",1556388388350
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556388396125
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556388396133
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556388396145
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556388396186
+error,log,,,"3.2"" HVGA slider (ADP1): Failed to find style 'textViewStyle' in current theme",1556388396793
+error,log,,,"3.2"" HVGA slider (ADP1): Failed to find style 'textViewStyle' in current theme",1556388396801
+error,log,,,"3.2"" HVGA slider (ADP1): Failed to find style 'textViewStyle' in current theme",1556388396809
+error,log,,,"3.2"" HVGA slider (ADP1): Failed to find style 'textViewStyle' in current theme",1556388396818
+error,log,,,"5.1"" WVGA: Failed to find style 'textViewStyle' in current theme",1556388396909
+error,log,,,"5.1"" WVGA: Failed to find style 'textViewStyle' in current theme",1556388396918
+error,log,,,"5.1"" WVGA: Failed to find style 'textViewStyle' in current theme",1556388396926
+error,log,,,"5.1"" WVGA: Failed to find style 'textViewStyle' in current theme",1556388396934
+error,log,,,"10.1"" WXGA (Tablet): Failed to find style 'textViewStyle' in current theme",1556388397024
+error,log,,,"10.1"" WXGA (Tablet): Failed to find style 'textViewStyle' in current theme",1556388397032
+error,log,,,"10.1"" WXGA (Tablet): Failed to find style 'textViewStyle' in current theme",1556388397040
+error,log,,,"10.1"" WXGA (Tablet): Failed to find style 'textViewStyle' in current theme",1556388397048
+error,log,,,"Nexus One: Failed to find style 'textViewStyle' in current theme",1556388397174
+error,log,,,"Nexus One: Failed to find style 'textViewStyle' in current theme",1556388397182
+error,log,,,"Nexus One: Failed to find style 'textViewStyle' in current theme",1556388397191
+error,log,,,"Nexus One: Failed to find style 'textViewStyle' in current theme",1556388397199
+error,log,,,"Nexus S: Failed to find style 'textViewStyle' in current theme",1556388397314
+error,log,,,"Nexus S: Failed to find style 'textViewStyle' in current theme",1556388397323
+error,log,,,"Nexus S: Failed to find style 'textViewStyle' in current theme",1556388397331
+error,log,,,"Nexus S: Failed to find style 'textViewStyle' in current theme",1556388397339
+error,log,,,"Galaxy Nexus: Failed to find style 'textViewStyle' in current theme",1556388397569
+error,log,,,"Galaxy Nexus: Failed to find style 'textViewStyle' in current theme",1556388397577
+error,log,,,"Galaxy Nexus: Failed to find style 'textViewStyle' in current theme",1556388397585
+error,log,,,"Galaxy Nexus: Failed to find style 'textViewStyle' in current theme",1556388397593
+error,log,,,"2012: Failed to find style 'textViewStyle' in current theme",1556388397682
+error,log,,,"2012: Failed to find style 'textViewStyle' in current theme",1556388397691
+error,log,,,"2012: Failed to find style 'textViewStyle' in current theme",1556388397699
+error,log,,,"2012: Failed to find style 'textViewStyle' in current theme",1556388397707
+error,log,,,"Nexus 5: Failed to find style 'textViewStyle' in current theme",1556388397799
+error,log,,,"Nexus 5: Failed to find style 'textViewStyle' in current theme",1556388397807
+error,log,,,"Nexus 5: Failed to find style 'textViewStyle' in current theme",1556388397815
+error,log,,,"Nexus 5: Failed to find style 'textViewStyle' in current theme",1556388397824
+error,log,,,"Nexus 4: Failed to find style 'textViewStyle' in current theme",1556388398093
+error,log,,,"Nexus 4: Failed to find style 'textViewStyle' in current theme",1556388398101
+error,log,,,"Nexus 4: Failed to find style 'textViewStyle' in current theme",1556388398109
+error,log,,,"Nexus 4: Failed to find style 'textViewStyle' in current theme",1556388398117
+error,log,,,"Nexus 10: Failed to find style 'textViewStyle' in current theme",1556388398236
+error,log,,,"Nexus 10: Failed to find style 'textViewStyle' in current theme",1556388398245
+error,log,,,"Nexus 10: Failed to find style 'textViewStyle' in current theme",1556388398253
+error,log,,,"Nexus 10: Failed to find style 'textViewStyle' in current theme",1556388398262
+error,log,,,"Nexus 7: Failed to find style 'textViewStyle' in current theme",1556388398985
+error,log,,,"Nexus 7: Failed to find style 'textViewStyle' in current theme",1556388398993
+error,log,,,"Nexus 7: Failed to find style 'textViewStyle' in current theme",1556388399001
+error,log,,,"Nexus 7: Failed to find style 'textViewStyle' in current theme",1556388399010
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556388402809
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556388402818
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556388402826
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556388402835
+error,log,,,"3.2"" HVGA slider (ADP1): Failed to find style 'textViewStyle' in current theme",1556388403362
+error,log,,,"3.2"" HVGA slider (ADP1): Failed to find style 'textViewStyle' in current theme",1556388403370
+error,log,,,"3.2"" HVGA slider (ADP1): Failed to find style 'textViewStyle' in current theme",1556388403378
+error,log,,,"3.2"" HVGA slider (ADP1): Failed to find style 'textViewStyle' in current theme",1556388403386
+error,log,,,"5.1"" WVGA: Failed to find style 'textViewStyle' in current theme",1556388403498
+error,log,,,"5.1"" WVGA: Failed to find style 'textViewStyle' in current theme",1556388403506
+error,log,,,"5.1"" WVGA: Failed to find style 'textViewStyle' in current theme",1556388403514
+error,log,,,"5.1"" WVGA: Failed to find style 'textViewStyle' in current theme",1556388403523
+error,log,,,"10.1"" WXGA (Tablet): Failed to find style 'textViewStyle' in current theme",1556388403649
+error,log,,,"10.1"" WXGA (Tablet): Failed to find style 'textViewStyle' in current theme",1556388403657
+error,log,,,"10.1"" WXGA (Tablet): Failed to find style 'textViewStyle' in current theme",1556388403665
+error,log,,,"10.1"" WXGA (Tablet): Failed to find style 'textViewStyle' in current theme",1556388403673
+error,log,,,"Nexus One: Failed to find style 'textViewStyle' in current theme",1556388403798
+error,log,,,"Nexus One: Failed to find style 'textViewStyle' in current theme",1556388403806
+error,log,,,"Nexus One: Failed to find style 'textViewStyle' in current theme",1556388403814
+error,log,,,"Nexus One: Failed to find style 'textViewStyle' in current theme",1556388403822
+error,log,,,"Nexus S: Failed to find style 'textViewStyle' in current theme",1556388404357
+error,log,,,"Nexus S: Failed to find style 'textViewStyle' in current theme",1556388404365
+error,log,,,"Nexus S: Failed to find style 'textViewStyle' in current theme",1556388404374
+error,log,,,"Nexus S: Failed to find style 'textViewStyle' in current theme",1556388404382
+error,log,,,"Galaxy Nexus: Failed to find style 'textViewStyle' in current theme",1556388404471
+error,log,,,"Galaxy Nexus: Failed to find style 'textViewStyle' in current theme",1556388404481
+error,log,,,"Galaxy Nexus: Failed to find style 'textViewStyle' in current theme",1556388404488
+error,log,,,"Galaxy Nexus: Failed to find style 'textViewStyle' in current theme",1556388404497
+error,log,,,"2012: Failed to find style 'textViewStyle' in current theme",1556388404599
+error,log,,,"2012: Failed to find style 'textViewStyle' in current theme",1556388404608
+error,log,,,"2012: Failed to find style 'textViewStyle' in current theme",1556388404616
+error,log,,,"2012: Failed to find style 'textViewStyle' in current theme",1556388404624
+error,log,,,"Nexus 4: Failed to find style 'textViewStyle' in current theme",1556388404729
+error,log,,,"Nexus 4: Failed to find style 'textViewStyle' in current theme",1556388404737
+error,log,,,"Nexus 4: Failed to find style 'textViewStyle' in current theme",1556388404745
+error,log,,,"Nexus 4: Failed to find style 'textViewStyle' in current theme",1556388404753
+error,log,,,"Nexus 10: Failed to find style 'textViewStyle' in current theme",1556388404856
+error,log,,,"Nexus 10: Failed to find style 'textViewStyle' in current theme",1556388404865
+error,log,,,"Nexus 10: Failed to find style 'textViewStyle' in current theme",1556388404873
+error,log,,,"Nexus 10: Failed to find style 'textViewStyle' in current theme",1556388404881
+error,log,,,"Nexus 7: Failed to find style 'textViewStyle' in current theme",1556388405066
+error,log,,,"Nexus 7: Failed to find style 'textViewStyle' in current theme",1556388405074
+error,log,,,"Nexus 7: Failed to find style 'textViewStyle' in current theme",1556388405083
+error,log,,,"Nexus 7: Failed to find style 'textViewStyle' in current theme",1556388405094
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556388410500
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556388412628
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556388412653
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556388412661
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556388412670
+error,log,,,"activity_main.xml: Failed to find style 'textViewStyle' in current theme",1556388412678
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1556388429055
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556388431391
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556388435136
+executed,command,org.eclipse.ltk.ui.refactoring,3.6.0.v20110505-0800,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1556388435142
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1556388435143
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556388441239
+closed,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1556388445336
+closed,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1556388445357
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556388445517
+executed,command,org.eclipse.ltk.ui.refactoring,3.6.0.v20110505-0800,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1556388445524
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1556388445524
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556388451760
+error,log,,,"Failed to load properties file for project 'cobalah'",1556388486295
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1556388488362
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1556388488558
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1556388488636
+opened,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1556388489034
+activated,editor,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.editors.CommonXmlEditor",1556388489094
